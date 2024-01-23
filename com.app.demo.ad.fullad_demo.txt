@@ -1,0 +1,18 @@
+{
+  "appOpenVisible":true,
+  "isInterLoad.value":true,
+  "isNativeAdLoaded.value":true,
+  "isBannerAdLoaded.value":true,
+  "googleAppOpenAd":"ca-app-pub-3940256099942544/5575463023",
+  "googleNativeId1":"ca-app-pub-3940256099942544/2247696110",
+  "googleBannerId1":"ca-app-pub-3940256099942544/6300978111",
+  "googleInterstitial1":"ca-app-pub-3940256099942544/1033173712",
+  "isFaceBookInterstitialLoaded":true,
+  "isFaceBookRewardAdLoaded":true,
+  "isFaceBookNativeLoaded":true,
+  "faceBookInterstitial1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "faceBookRewarded1":"VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "faceBookNative1":"IMG_16_9_APP_INSTALL#2312433698835503_2964952163583650",
+  "Hii":"Hello",
+  "Hello":"Ji"
+}
